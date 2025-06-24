@@ -34,7 +34,7 @@
 ---
 
 ### 📬 Let’s Connect!
-- 📫 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+- 📫 [LinkedIn]([)](https://www.linkedin.com/in/guruprasad-kannan-1a9207214/)
 - 🧑‍💻 [Portfolio](https://yourportfolio.dev)
 - 💼 Always open to exciting DevOps opportunities & collaborations!
 
