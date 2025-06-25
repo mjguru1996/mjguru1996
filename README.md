@@ -23,23 +23,11 @@ I am a passionate **DevOps Engineer** skilled in automating infrastructure and c
 
 ---
 
-## 🔥 Key Projects
-
-### 1. **MERN Stack DevOpsified**
-🚀 *Cloud, Automation & Monitoring*  
-- **Technologies**: AWS, Terraform, Jenkins, ArgoCD, Helm, Prometheus, Grafana
-- **Highlights**: Deployed a complete **MERN** stack on **Kubernetes** with **DevSecOps** integration.
-  - Integrated **Trivy** for security scans and **SonarQube** for code quality.
-  - Automated the setup using **Terraform** for AWS infrastructure.
-  - Comprehensive monitoring and alerting using **Prometheus** and **Grafana**.
-
----
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidhiyanathan-r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruprasad-kannan-1a9207214/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidhiyanathan/devops)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaidhi.r03@gmail.com)
 
 ---
 
